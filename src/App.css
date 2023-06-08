@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,47 @@
   to {
     transform: rotate(360deg);
   }
+} */
+body{
+  background-color: lightgray;
+}
+
+/* ------------------------------------- */
+
+.navi{
+  padding: 25px;
+}
+.images{
+  width: 80px;
+}
+
+button{
+  height: 50px;
+}
+
+.slide1s{
+  padding-top: 150px;
+  font-weight: bolder;
+}
+
+form{
+  padding-top: 50px;
+  width: 1000px;
+  height: 90px;
+}
+
+.input2{
+  height: 90px;
+}
+
+.btn2{
+  height: 90px;
+  width: 150px;
+  background-color: lightcoral;
+  color: whitesmoke;
+  font-size: 30px;
+}
+
+.pad1{
+  padding-left: 250px;
 }
